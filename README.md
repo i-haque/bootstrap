@@ -1,0 +1,1 @@
+Dummy back-end API for a bootstrap project. It can get and post lodge details to the database. Users can get their details and new users can also post their details to the database. It has validation methods to check whether the input provided by the user is upto the mark or not.
